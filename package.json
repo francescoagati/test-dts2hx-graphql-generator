@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dts2hx": "^0.13.0"
+    "dts2hx": "https://github.com/haxiomic/dts2hx.git"
   }
 }
