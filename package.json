@@ -1,0 +1,14 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "description": "This is an example Haxe project scaffolded by Visual Studio Code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dts2hx": "^0.13.0"
+  }
+}
